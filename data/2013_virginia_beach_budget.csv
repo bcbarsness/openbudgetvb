@@ -1,0 +1,334 @@
+ID,Year,Fund Number,Fund Name,Fund Type,Department,Amount
+1,2013,002,General Fund,Appropriation,Agriculture,731051
+2,2013,002,General Fund,Appropriation,Benefits Administration,662283
+3,2013,002,General Fund,Appropriation,Board of Equalization,8534
+4,2013,002,General Fund,Appropriation,Budget and Management Services,1595912
+5,2013,002,General Fund,Appropriation,Circuit Court,1000917
+6,2013,002,General Fund,Appropriation,City Attorney,3697536
+7,2013,002,General Fund,Appropriation,City Auditor,628605
+8,2013,002,General Fund,Appropriation,City Clerk,723543
+9,2013,002,General Fund,Appropriation,City Manager,2539252
+10,2013,002,General Fund,Appropriation,City Real Estate Assessor,2988649
+11,2013,002,General Fund,Appropriation,City Treasurer,5124747
+12,2013,002,General Fund,Appropriation,Clerk of the Circuit Court,3005672
+13,2013,002,General Fund,Appropriation,Commissioner of the Revenue,4111394
+14,2013,002,General Fund,Appropriation,Commonwealth's Attorney,7361326
+15,2013,002,General Fund,Appropriation,Communications and Information Technology,22410814
+16,2013,002,General Fund,Appropriation,Community Organization Grants,408698
+17,2013,002,General Fund,Appropriation,Computer Replacement Program,0
+18,2013,002,General Fund,Appropriation,Convention and Visitor Bureau,8166845
+19,2013,002,General Fund,Appropriation,Cultural Affairs,1357949
+20,2013,002,General Fund,Appropriation,Debt Service,45741032
+21,2013,002,General Fund,Appropriation,Economic Development,2343973
+22,2013,002,General Fund,Appropriation,Emergency Communications and Citizen Services,8585774
+23,2013,002,General Fund,Appropriation,Emergency Medical Services,7903002
+24,2013,002,General Fund,Appropriation,Employee Special Benefits,5487007
+25,2013,002,General Fund,Appropriation,Finance,4759922
+26,2013,002,General Fund,Appropriation,Fire,43502485
+27,2013,002,General Fund,Appropriation,General District Court,412841
+28,2013,002,General Fund,Appropriation,General Registrar,1581147
+29,2013,002,General Fund,Appropriation,Health,2866303
+30,2013,002,General Fund,Appropriation,Housing and Neighborhood Preservation,1683167
+31,2013,002,General Fund,Appropriation,Human Resources,3774942
+32,2013,002,General Fund,Appropriation,Human Services,100285120
+33,2013,002,General Fund,Appropriation,Independent Financial Services,103809
+34,2013,002,General Fund,Appropriation,Juvenile and Domestic Relations District Court,137973
+35,2013,002,General Fund,Appropriation,Juvenile Probation,1480901
+36,2013,002,General Fund,Appropriation,Leases,1522187
+37,2013,002,General Fund,Appropriation,Library,15749741
+38,2013,002,General Fund,Appropriation,Magistrates,93400
+39,2013,002,General Fund,Appropriation,Municipal Council,600222
+40,2013,002,General Fund,Appropriation,Museums,8981376
+41,2013,002,General Fund,Appropriation,Parks and Recreation,12565840
+42,2013,002,General Fund,Appropriation,Planning,9260575
+43,2013,002,General Fund,Appropriation,Police,90179189
+44,2013,002,General Fund,Appropriation,Public Works,63677559
+45,2013,002,General Fund,Appropriation,Regional Participation,2078872
+46,2013,002,General Fund,Appropriation,Reserve for Contingencies,0
+47,2013,002,General Fund,Appropriation,Revenue Reimbursements,15801269
+48,2013,002,General Fund,Appropriation,Strategic Growth Area,5404498
+49,2013,002,General Fund,Appropriation,Transfer to Other Funds,439580133
+50,2013,002,General Fund,Appropriation,Vehicle Replacements,5422065
+51,2013,002,General Fund,Revenue,Non-Revenue Receipts,540500
+52,2013,002,General Fund,Revenue,Amusement Tax,13067
+53,2013,002,General Fund,Revenue,Automobile License,9437635
+54,2013,002,General Fund,Revenue,Business License,44224356
+55,2013,002,General Fund,Revenue,Charges for Services,34461339
+56,2013,002,General Fund,Revenue,Cigarette Tax,11033557
+57,2013,002,General Fund,Revenue,Fines and Forfeitures,6150250
+58,2013,002,General Fund,Revenue,From the Use of Money and Property,5202190
+59,2013,002,General Fund,Revenue,General Sales Tax,54978531
+60,2013,002,General Fund,Revenue,Hotel Room Tax,5765031
+61,2013,002,General Fund,Revenue,Miscellaneous Revenue,5982768
+62,2013,002,General Fund,Revenue,Other Taxes,17078056
+63,2013,002,General Fund,Revenue,"Permits, Privilege Fees, and Regulatory Licenses",4421092
+64,2013,002,General Fund,Revenue,Personal Property,128006413
+65,2013,002,General Fund,Revenue,Real Estate,440705176
+66,2013,002,General Fund,Revenue,Restaurant Meal Tax,35134292
+67,2013,002,General Fund,Revenue,Utility Tax,44623292
+68,2013,002,General Fund,Revenue,Other Sources from the Commonwealth,89990497
+69,2013,002,General Fund,Revenue,Revenue from the Federal Government,17195524
+70,2013,002,General Fund,Revenue,Specific Fund Reserves,0
+71,2013,002,General Fund,Revenue,Transfers from Other Funds,14031627
+72,2013,098,School Reserve Special Revenue Fund,Appropriation,Transfer to Other Funds,11000000
+73,2013,098,School Reserve Special Revenue Fund,Revenue,Specific Fund Reserves,0
+74,2013,107,School Equipment Replacement Special Revenue Fund,Appropriation,Reserve for Contingencies,0
+75,2013,107,School Equipment Replacement Special Revenue Fund,Revenue,Specific Fund Reserves,0
+76,2013,108,School Instructional Technology Fund,Appropriation,Instructional Technology,0
+77,2013,108,School Instructional Technology Fund,Revenue,Specific Fund Reserves,0
+78,2013,109,School Vending Operations Fund,Appropriation,Athletic,0
+79,2013,109,School Vending Operations Fund,Revenue,Miscellaneous Revenue,0
+80,2013,109,School Vending Operations Fund,Revenue,Specific Fund Reserves,0
+81,2013,112,School Communication Tower Technology Fund,Appropriation,Instructional Technology,0
+82,2013,112,School Communication Tower Technology Fund,Revenue,From the Use of Money and Property,0
+83,2013,112,School Communication Tower Technology Fund,Revenue,Specific Fund Reserves,0
+84,2013,114,School Cafeteria Fund,Appropriation,Cafeteria,0
+85,2013,114,School Cafeteria Fund,Revenue,Charges for Services,0
+86,2013,114,School Cafeteria Fund,Revenue,From the Use of Money and Property,0
+87,2013,114,School Cafeteria Fund,Revenue,Miscellaneous Revenue,0
+88,2013,114,School Cafeteria Fund,Revenue,Other Sources from the Commonwealth,0
+89,2013,114,School Cafeteria Fund,Revenue,Revenue from the Federal Government,0
+90,2013,114,School Cafeteria Fund,Revenue,Specific Fund Reserves,0
+91,2013,115,School Operating Fund,Appropriation,"Administration, Attendance, and Health",0
+92,2013,115,School Operating Fund,Appropriation,City Manager Adjustment,0
+93,2013,115,School Operating Fund,Appropriation,Debt Service,0
+94,2013,115,School Operating Fund,Appropriation,Instruction,0
+95,2013,115,School Operating Fund,Appropriation,Operations and Maintenance,0
+96,2013,115,School Operating Fund,Appropriation,Pupil Transportation,0
+97,2013,115,School Operating Fund,Appropriation,Technology,0
+98,2013,115,School Operating Fund,Revenue,Charges for Services,0
+99,2013,115,School Operating Fund,Revenue,From the Use of Money and Property,0
+100,2013,115,School Operating Fund,Revenue,Miscellaneous Revenue,0
+101,2013,115,School Operating Fund,Revenue,Other Sources from the Commonwealth,0
+102,2013,115,School Operating Fund,Revenue,State Shared Sales Tax,0
+103,2013,115,School Operating Fund,Revenue,Revenue from the Federal Government,0
+104,2013,115,School Operating Fund,Revenue,Transfers from Other Funds,398445180
+105,2013,116,School Grants Fund,Appropriation,Grants,0
+106,2013,116,School Grants Fund,Revenue,Miscellaneous Revenue,0
+107,2013,116,School Grants Fund,Revenue,Other Sources from the Commonwealth,0
+108,2013,116,School Grants Fund,Revenue,Revenue from the Federal Government,0
+109,2013,117,School Textbook Fund,Appropriation,Textbook,0
+110,2013,117,School Textbook Fund,Revenue,From the Use of Money and Property,0
+111,2013,117,School Textbook Fund,Revenue,Miscellaneous Revenue,0
+112,2013,117,School Textbook Fund,Revenue,Other Sources from the Commonwealth,0
+113,2013,117,School Textbook Fund,Revenue,Specific Fund Reserves,0
+114,2013,119,School Athletic Special Revenue Fund,Appropriation,Athletic,0
+115,2013,119,School Athletic Special Revenue Fund,Revenue,Charges for Services,0
+116,2013,119,School Athletic Special Revenue Fund,Revenue,From the Use of Money and Property,0
+117,2013,119,School Athletic Special Revenue Fund,Revenue,Miscellaneous Revenue,0
+118,2013,130,Law Library Fund,Appropriation,Library,198596
+119,2013,130,Law Library Fund,Appropriation,Reserve for Contingencies,0
+120,2013,130,Law Library Fund,Appropriation,Transfer to Other Funds,57252
+121,2013,130,Law Library Fund,Revenue,Charges for Services,293199
+122,2013,130,Law Library Fund,Revenue,From the Use of Money and Property,3653
+123,2013,130,Law Library Fund,Revenue,Specific Fund Reserves,0
+124,2013,140,Commonwealth Attorney's DEA Seized Property SRF,Appropriation,Commonwealth's Attorney,106965
+125,2013,140,Commonwealth Attorney's DEA Seized Property SRF,Revenue,From the Use of Money and Property,11008
+126,2013,140,Commonwealth Attorney's DEA Seized Property SRF,Revenue,Miscellaneous Revenue,12475
+127,2013,140,Commonwealth Attorney's DEA Seized Property SRF,Revenue,Other Sources from the Commonwealth,122894
+128,2013,140,Commonwealth Attorney's DEA Seized Property SRF,Revenue,Revenue from the Federal Government,29700
+129,2013,140,Commonwealth Attorney's DEA Seized Property SRF,Revenue,Specific Fund Reserves,200000
+130,2013,142,Police DEA Seized Property Special Revenue Fund,Appropriation,Police,405906
+131,2013,142,Police DEA Seized Property Special Revenue Fund,Revenue,From the Use of Money and Property,14348
+132,2013,142,Police DEA Seized Property Special Revenue Fund,Revenue,Other Sources from the Commonwealth,424253
+133,2013,142,Police DEA Seized Property Special Revenue Fund,Revenue,Revenue from the Federal Government,181714
+134,2013,144,Waste Management Special Revenue Fund,Appropriation,Public Works,38439127
+135,2013,144,Waste Management Special Revenue Fund,Appropriation,Reserve for Contingencies,0
+136,2013,144,Waste Management Special Revenue Fund,Appropriation,Transfer to Other Funds,0
+137,2013,144,Waste Management Special Revenue Fund,Revenue,Charges for Services,26337173
+138,2013,144,Waste Management Special Revenue Fund,Revenue,From the Use of Money and Property,144300
+139,2013,144,Waste Management Special Revenue Fund,Revenue,Miscellaneous Revenue,23554
+140,2013,144,Waste Management Special Revenue Fund,Revenue,"Permits, Privilege Fees, and Regulatory Licenses",150040
+141,2013,144,Waste Management Special Revenue Fund,Revenue,Other Sources from the Commonwealth,51070
+142,2013,144,Waste Management Special Revenue Fund,Revenue,Specific Fund Reserves,0
+143,2013,144,Waste Management Special Revenue Fund,Revenue,Transfers from Other Funds,14769687
+144,2013,147,Federal Section 8 Program Special Revenue Fund,Appropriation,Housing and Neighborhood Preservation,19899788
+145,2013,147,Federal Section 8 Program Special Revenue Fund,Revenue,Charges for Services,1612185
+146,2013,147,Federal Section 8 Program Special Revenue Fund,Revenue,From the Use of Money and Property,-277
+147,2013,147,Federal Section 8 Program Special Revenue Fund,Revenue,Miscellaneous Revenue,24188
+148,2013,147,Federal Section 8 Program Special Revenue Fund,Revenue,Revenue from the Federal Government,17063813
+149,2013,147,Federal Section 8 Program Special Revenue Fund,Revenue,Specific Fund Reserves,0
+150,2013,147,Federal Section 8 Program Special Revenue Fund,Revenue,Transfers from Other Funds,240474
+151,2013,149,Sheriff's Department Special Revenue Fund,Appropriation,Sheriff and Corrections,38578292
+152,2013,149,Sheriff's Department Special Revenue Fund,Appropriation,Transfer to Other Funds,24551
+153,2013,149,Sheriff's Department Special Revenue Fund,Revenue,Charges for Services,4629066
+154,2013,149,Sheriff's Department Special Revenue Fund,Revenue,From the Use of Money and Property,16280
+155,2013,149,Sheriff's Department Special Revenue Fund,Revenue,Miscellaneous Revenue,13117
+156,2013,149,Sheriff's Department Special Revenue Fund,Revenue,Other Sources from the Commonwealth,17280263
+157,2013,149,Sheriff's Department Special Revenue Fund,Revenue,Revenue from the Federal Government,395071
+158,2013,149,Sheriff's Department Special Revenue Fund,Revenue,Specific Fund Reserves,0
+159,2013,149,Sheriff's Department Special Revenue Fund,Revenue,Transfers from Other Funds,14896783
+160,2013,151,Parks and Recreation Special Revenue Fund,Appropriation,Debt Service,1278331
+161,2013,151,Parks and Recreation Special Revenue Fund,Appropriation,Future C.I.P. Commitments,0
+162,2013,151,Parks and Recreation Special Revenue Fund,Appropriation,Municipal Council,1203
+163,2013,151,Parks and Recreation Special Revenue Fund,Appropriation,Parks and Recreation,25871265
+164,2013,151,Parks and Recreation Special Revenue Fund,Appropriation,Public Works,2471712
+165,2013,151,Parks and Recreation Special Revenue Fund,Appropriation,Reserve for Contingencies,0
+166,2013,151,Parks and Recreation Special Revenue Fund,Appropriation,Transfer to Other Funds,2573615
+167,2013,151,Parks and Recreation Special Revenue Fund,Revenue,Charges for Services,12891736
+168,2013,151,Parks and Recreation Special Revenue Fund,Revenue,From the Use of Money and Property,1488877
+169,2013,151,Parks and Recreation Special Revenue Fund,Revenue,Miscellaneous Revenue,35139
+170,2013,151,Parks and Recreation Special Revenue Fund,Revenue,"Permits, Privilege Fees, and Regulatory Licenses",5059
+171,2013,151,Parks and Recreation Special Revenue Fund,Revenue,Real Estate,16274306
+172,2013,151,Parks and Recreation Special Revenue Fund,Revenue,Other Sources from the Commonwealth,27518
+173,2013,151,Parks and Recreation Special Revenue Fund,Revenue,Specific Fund Reserves,0
+174,2013,151,Parks and Recreation Special Revenue Fund,Revenue,Transfers from Other Funds,5463470
+175,2013,152,Tourism Investment Program Fund,Appropriation,Convention and Visitor Bureau,163663
+176,2013,152,Tourism Investment Program Fund,Appropriation,Cultural Affairs,50500
+177,2013,152,Tourism Investment Program Fund,Appropriation,Debt Service,26063812
+178,2013,152,Tourism Investment Program Fund,Appropriation,Parks and Recreation,34563
+179,2013,152,Tourism Investment Program Fund,Appropriation,Public Works,837327
+180,2013,152,Tourism Investment Program Fund,Appropriation,Reserve for Contingencies,0
+181,2013,152,Tourism Investment Program Fund,Appropriation,Strategic Growth Area,3968618
+182,2013,152,Tourism Investment Program Fund,Appropriation,Transfer to Other Funds,4326391
+183,2013,152,Tourism Investment Program Fund,Revenue,Amusement Tax,5471907
+184,2013,152,Tourism Investment Program Fund,Revenue,Cigarette Tax,919463
+185,2013,152,Tourism Investment Program Fund,Revenue,Fines and Forfeitures,738507
+186,2013,152,Tourism Investment Program Fund,Revenue,From the Use of Money and Property,653785
+187,2013,152,Tourism Investment Program Fund,Revenue,Hotel Room Tax,14547739
+188,2013,152,Tourism Investment Program Fund,Revenue,Miscellaneous Revenue,0
+189,2013,152,Tourism Investment Program Fund,Revenue,"Permits, Privilege Fees, and Regulatory Licenses",192633
+190,2013,152,Tourism Investment Program Fund,Revenue,Restaurant Meal Tax,10593731
+191,2013,152,Tourism Investment Program Fund,Revenue,Transfers from Other Funds,250000
+192,2013,157,Sandbridge Special Service District Spec Rev Fd,Appropriation,Transfer to Other Funds,4804405
+193,2013,157,Sandbridge Special Service District Spec Rev Fd,Revenue,From the Use of Money and Property,3819
+194,2013,157,Sandbridge Special Service District Spec Rev Fd,Revenue,Hotel Room Tax,1370202
+195,2013,157,Sandbridge Special Service District Spec Rev Fd,Revenue,Real Estate,580826
+196,2013,157,Sandbridge Special Service District Spec Rev Fd,Revenue,Specific Fund Reserves,0
+197,2013,157,Sandbridge Special Service District Spec Rev Fd,Revenue,Transfers from Other Funds,2277372
+198,2013,161,Agriculture Reserve Program Special Revenue Fund,Appropriation,Agriculture,146346
+199,2013,161,Agriculture Reserve Program Special Revenue Fund,Appropriation,Debt Service,3255583
+200,2013,161,Agriculture Reserve Program Special Revenue Fund,Appropriation,Reserve for Contingencies,0
+201,2013,161,Agriculture Reserve Program Special Revenue Fund,Revenue,Real Estate,4213715
+202,2013,161,Agriculture Reserve Program Special Revenue Fund,Revenue,Other Sources from the Commonwealth,278859
+203,2013,163,Tourism Advertising Program Special Revenue Fund,Appropriation,Convention and Visitor Bureau,10193410
+204,2013,163,Tourism Advertising Program Special Revenue Fund,Appropriation,Reserve for Contingencies,0
+205,2013,163,Tourism Advertising Program Special Revenue Fund,Appropriation,Transfer to Other Funds,56838
+206,2013,163,Tourism Advertising Program Special Revenue Fund,Revenue,Charges for Services,96241
+207,2013,163,Tourism Advertising Program Special Revenue Fund,Revenue,From the Use of Money and Property,49676
+208,2013,163,Tourism Advertising Program Special Revenue Fund,Revenue,Hotel Room Tax,5044797
+209,2013,163,Tourism Advertising Program Special Revenue Fund,Revenue,Miscellaneous Revenue,23730
+210,2013,163,Tourism Advertising Program Special Revenue Fund,Revenue,Restaurant Meal Tax,4997043
+211,2013,166,Sandbridge Tax Increment Financing Fund,Appropriation,Future C.I.P. Commitments,0
+212,2013,166,Sandbridge Tax Increment Financing Fund,Appropriation,Transfer to Other Funds,0
+213,2013,166,Sandbridge Tax Increment Financing Fund,Revenue,From the Use of Money and Property,23802
+214,2013,166,Sandbridge Tax Increment Financing Fund,Revenue,Real Estate,7226431
+215,2013,166,Sandbridge Tax Increment Financing Fund,Revenue,Specific Fund Reserves,0
+216,2013,169,Central Business District-South TIF (Twn Cntr) Fd,Appropriation,Debt Service,5579549
+217,2013,169,Central Business District-South TIF (Twn Cntr) Fd,Appropriation,Transfer to Other Funds,150000
+218,2013,169,Central Business District-South TIF (Twn Cntr) Fd,Revenue,From the Use of Money and Property,2393
+219,2013,169,Central Business District-South TIF (Twn Cntr) Fd,Revenue,Hotel Room Tax,500000
+220,2013,169,Central Business District-South TIF (Twn Cntr) Fd,Revenue,Miscellaneous Revenue,2500000
+221,2013,169,Central Business District-South TIF (Twn Cntr) Fd,Revenue,Real Estate,5255106
+222,2013,169,Central Business District-South TIF (Twn Cntr) Fd,Revenue,Specific Fund Reserves,0
+223,2013,172,Open Space Special Revenue Fund,Appropriation,Debt Service,2426388
+224,2013,172,Open Space Special Revenue Fund,Appropriation,Parks and Recreation,484500
+225,2013,172,Open Space Special Revenue Fund,Appropriation,Public Works,0
+226,2013,172,Open Space Special Revenue Fund,Appropriation,Reserve for Contingencies,0
+227,2013,172,Open Space Special Revenue Fund,Appropriation,Transfer to Other Funds,2026724
+228,2013,172,Open Space Special Revenue Fund,Revenue,From the Use of Money and Property,2255
+229,2013,172,Open Space Special Revenue Fund,Revenue,Restaurant Meal Tax,4397398
+230,2013,172,Open Space Special Revenue Fund,Revenue,Specific Fund Reserves,0
+231,2013,174,Town Center Special Service District,Appropriation,Parks and Recreation,26612
+232,2013,174,Town Center Special Service District,Appropriation,Town Center Special Tax District,1417525
+233,2013,174,Town Center Special Service District,Appropriation,Transfer to Other Funds,337197
+234,2013,174,Town Center Special Service District,Revenue,From the Use of Money and Property,2791
+235,2013,174,Town Center Special Service District,Revenue,Real Estate,1536750
+236,2013,174,Town Center Special Service District,Revenue,Specific Fund Reserves,0
+237,2013,174,Town Center Special Service District,Revenue,Transfers from Other Funds,150000
+238,2013,180,Community Development Special Revenue Fund,Appropriation,Housing and Neighborhood Preservation,1996490
+239,2013,180,Community Development Special Revenue Fund,Appropriation,Transfer to Other Funds,128858
+240,2013,180,Community Development Special Revenue Fund,Revenue,Charges for Services,48400
+241,2013,180,Community Development Special Revenue Fund,Revenue,Miscellaneous Revenue,2999
+242,2013,180,Community Development Special Revenue Fund,Revenue,Revenue from the Federal Government,1529884
+243,2013,180,Community Development Special Revenue Fund,Revenue,Transfers from Other Funds,708683
+244,2013,181,CD Loan and Grant Fund,Appropriation,Housing and Neighborhood Preservation,729534
+245,2013,181,CD Loan and Grant Fund,Revenue,Non-Revenue Receipts,138553
+246,2013,181,CD Loan and Grant Fund,Revenue,Charges for Services,525
+247,2013,181,CD Loan and Grant Fund,Revenue,From the Use of Money and Property,3381
+248,2013,181,CD Loan and Grant Fund,Revenue,Revenue from the Federal Government,401921
+249,2013,181,CD Loan and Grant Fund,Revenue,Transfers from Other Funds,125000
+250,2013,182,Federal Housing Assistance Grant Fund,Appropriation,Housing and Neighborhood Preservation,1337547
+251,2013,182,Federal Housing Assistance Grant Fund,Revenue,Non-Revenue Receipts,88550
+252,2013,182,Federal Housing Assistance Grant Fund,Revenue,Charges for Services,825
+253,2013,182,Federal Housing Assistance Grant Fund,Revenue,From the Use of Money and Property,8207
+254,2013,182,Federal Housing Assistance Grant Fund,Revenue,Revenue from the Federal Government,1720776
+255,2013,182,Federal Housing Assistance Grant Fund,Revenue,Transfers from Other Funds,0
+256,2013,183,Grants Consolidated Fund,Appropriation,Circuit Court,10763
+257,2013,183,Grants Consolidated Fund,Appropriation,Commonwealth's Attorney,412019
+258,2013,183,Grants Consolidated Fund,Appropriation,Emergency Medical Services,598569
+259,2013,183,Grants Consolidated Fund,Appropriation,Fire,1931612
+260,2013,183,Grants Consolidated Fund,Appropriation,Housing and Neighborhood Preservation,1009875
+261,2013,183,Grants Consolidated Fund,Appropriation,Human Services,1571250
+262,2013,183,Grants Consolidated Fund,Appropriation,Juvenile Probation,102251
+263,2013,183,Grants Consolidated Fund,Appropriation,Library,15781
+264,2013,183,Grants Consolidated Fund,Appropriation,Museums,15882
+265,2013,183,Grants Consolidated Fund,Appropriation,Parks and Recreation,69837
+266,2013,183,Grants Consolidated Fund,Appropriation,Planning,62433
+267,2013,183,Grants Consolidated Fund,Appropriation,Police,444262
+268,2013,183,Grants Consolidated Fund,Appropriation,Public Works,10800
+269,2013,183,Grants Consolidated Fund,Appropriation,Reserve for Contingencies,0
+270,2013,183,Grants Consolidated Fund,Appropriation,Sheriff and Corrections,316310
+271,2013,183,Grants Consolidated Fund,Appropriation,Transfer to Other Funds,400000
+272,2013,183,Grants Consolidated Fund,Revenue,Charges for Services,39402
+273,2013,183,Grants Consolidated Fund,Revenue,Other Sources from the Commonwealth,3158591
+274,2013,183,Grants Consolidated Fund,Revenue,Revenue from the Federal Government,3464957
+275,2013,183,Grants Consolidated Fund,Revenue,Revenue from the Federal Government,46225
+276,2013,241,Water and Sewer Fund,Appropriation,Debt Service,7853450
+277,2013,241,Water and Sewer Fund,Appropriation,Public Utilities,70072341
+278,2013,241,Water and Sewer Fund,Appropriation,Reserve for Contingencies,0
+279,2013,241,Water and Sewer Fund,Appropriation,Transfer to Other Funds,18249158
+280,2013,241,Water and Sewer Fund,Revenue,Non-Revenue Receipts,5670290
+281,2013,241,Water and Sewer Fund,Revenue,Charges for Services,109437509
+282,2013,241,Water and Sewer Fund,Revenue,From the Use of Money and Property,547751
+283,2013,241,Water and Sewer Fund,Revenue,Miscellaneous Revenue,675171
+284,2013,241,Water and Sewer Fund,Revenue,Revenue from the Federal Government,1017733
+285,2013,241,Water and Sewer Fund,Revenue,Transfers from Other Funds,658679
+286,2013,253,Parking Enterprise Fund,Appropriation,Debt Service,695407
+287,2013,253,Parking Enterprise Fund,Appropriation,Reserve for Contingencies,0
+288,2013,253,Parking Enterprise Fund,Appropriation,Strategic Growth Area,1499616
+289,2013,253,Parking Enterprise Fund,Appropriation,Transfer to Other Funds,433428
+290,2013,253,Parking Enterprise Fund,Revenue,Charges for Services,3074796
+291,2013,253,Parking Enterprise Fund,Revenue,Fines and Forfeitures,0
+292,2013,253,Parking Enterprise Fund,Revenue,From the Use of Money and Property,6928
+293,2013,253,Parking Enterprise Fund,Revenue,Miscellaneous Revenue,305
+294,2013,255,Storm Water Utility Enterprise Fund,Appropriation,Debt Service,1054774
+295,2013,255,Storm Water Utility Enterprise Fund,Appropriation,Public Works,13336693
+296,2013,255,Storm Water Utility Enterprise Fund,Appropriation,Reserve for Contingencies,0
+297,2013,255,Storm Water Utility Enterprise Fund,Appropriation,Transfer to Other Funds,15764934
+298,2013,255,Storm Water Utility Enterprise Fund,Revenue,Charges for Services,32468445
+299,2013,255,Storm Water Utility Enterprise Fund,Revenue,From the Use of Money and Property,89689
+300,2013,255,Storm Water Utility Enterprise Fund,Revenue,Miscellaneous Revenue,32081
+301,2013,255,Storm Water Utility Enterprise Fund,Revenue,Revenue from the Federal Government,275815
+302,2013,255,Storm Water Utility Enterprise Fund,Revenue,Transfers from Other Funds,1836295
+303,2013,310,Old Donation Creek Area Dredging SSD,Appropriation,Transfer to Other Funds,68652
+304,2013,310,Old Donation Creek Area Dredging SSD,Revenue,Real Estate,65190
+305,2013,311,Bayville Creek Neighborhood Dredging SSD Fund,Appropriation,Transfer to Other Funds,50508
+306,2013,311,Bayville Creek Neighborhood Dredging SSD Fund,Revenue,Real Estate,47372
+307,2013,312,Shadowlawn Area Dredging SSD,Appropriation,Transfer to Other Funds,0
+308,2013,312,Shadowlawn Area Dredging SSD,Revenue,Real Estate,0
+309,2013,313,Chesopeian Colony Dredging SSD,Appropriation,Transfer to Other Funds,0
+310,2013,313,Chesopeian Colony Dredging SSD,Revenue,Real Estate,0
+311,2013,314,Harbour Point Dredging SSD,Appropriation,Transfer to Other Funds,0
+312,2013,314,Harbour Point Dredging SSD,Revenue,Real Estate,0
+313,2013,540,General Government Capital Projects Fund,Appropriation,Building Capital Projects,0
+314,2013,540,General Government Capital Projects Fund,Appropriation,Coastal Capital Projects,0
+315,2013,540,General Government Capital Projects Fund,Appropriation,Communications and Information Technology Projects,0
+316,2013,540,General Government Capital Projects Fund,Appropriation,Economic and Tourism Development Capital Projects,0
+317,2013,540,General Government Capital Projects Fund,Appropriation,Parks and Recreation Capital Projects,0
+318,2013,540,General Government Capital Projects Fund,Appropriation,Roadways Capital Projects,0
+319,2013,540,General Government Capital Projects Fund,Revenue,Transfers from Other Funds,23452415
+320,2013,541,Water and Sewer Capital Projects Fund,Appropriation,Water and Sewer Capital Projects,0
+321,2013,541,Water and Sewer Capital Projects Fund,Revenue,Transfers from Other Funds,8000000
+322,2013,555,Storm Water Capital Projects Fund,Appropriation,Storm Water Capital Projects,0
+323,2013,555,Storm Water Capital Projects Fund,Revenue,Transfers from Other Funds,14202870
+324,2013,908,City Beautification Fund,Appropriation,Parks and Recreation,31859
+325,2013,908,City Beautification Fund,Revenue,Charges for Services,652
+326,2013,908,City Beautification Fund,Revenue,Miscellaneous Revenue,135665
+327,2013,909,Library Gift Fund,Appropriation,Library,13553
+328,2013,909,Library Gift Fund,Revenue,Miscellaneous Revenue,192574
+329,2013,910,Parking Meters - Homeless Donation Fund,Appropriation,Housing and Neighborhood Preservation,644
+330,2013,910,Parking Meters - Homeless Donation Fund,Revenue,Miscellaneous Revenue,2691
+331,2013,911,Parks and Recreation Gift Fund,Appropriation,Parks and Recreation,32712
+332,2013,911,Parks and Recreation Gift Fund,Revenue,From the Use of Money and Property,333
+333,2013,911,Parks and Recreation Gift Fund,Revenue,Miscellaneous Revenue,35643

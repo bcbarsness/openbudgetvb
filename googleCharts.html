@@ -1,0 +1,44 @@
+<html>
+<head>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load("visualization", '1', {packages:['table']});
+google.load("visualization", "1", {packages: ["treemap"]});
+google.setOnLoadCallback(drawChart);
+function drawChart() {
+  var query = new google.visualization.Query(
+      'https://docs.google.com/spreadsheets/d/1My0-PoqNBj2UDwfOTdDdTXndBZIA1QnliYZzh_BWkrA/edit#gid=1830840954');
+  query.send(handleQueryResponse);
+}
+
+function handleQueryResponse(response) {
+  if (response.isError()) {
+    alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+    return;
+  }
+
+  var data = response.getDataTable();
+ // var table = new google.visualization.Table(document.getElementById('columnchart'));
+ // table.draw(data, {showRowNumber: true});
+
+  var tree = new google.visualization.TreeMap(document.getElementById('columnchart'));
+          tree.draw(data, {
+          minColor: '#f00',
+          midColor: '#ddd',
+          maxColor: '#0d0',
+          headerHeight: 15,
+          fontColor: 'black',
+          showScale: true
+        });
+
+}
+</script>
+
+<title>Data from a Spreadsheet</title>
+</head>
+
+<body>
+<div id="columnchart" style="width: 900px; height: 500px;"></div>
+
+</body>
+</html>
